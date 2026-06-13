@@ -37,7 +37,7 @@ This AI-powered travel agent uses **Google Gemini API** to tailor multi-variable
 | Component | Technology |
 | :--- | :--- |
 | **Frontend** | Streamlit |
-| **AI LLM Engine** | Google Gemini API (`models/gemini-1.5-flash`) |
+| **AI LLM Engine** | Google Gemini API (`models/gemini-2.5-flash`) |
 | **Data Processing** | Pandas, NumPy |
 | **Data Visualization** | Plotly |
 | **Storage** | Session-State Persistent Data (`st.session_state`) with TXT Export |
