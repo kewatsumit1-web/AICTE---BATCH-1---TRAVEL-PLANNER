@@ -90,7 +90,7 @@ GOOGLE_API_KEY=your_actual_gemini_api_key_here
 
 To launch your AI Travel Planner instance locally, execute:
 ```bash
-streamlit run travel.py
+streamlit run app.py
 ```
 The web portal will automatically initialize inside your default browser window at `http://localhost:8501`.
 
